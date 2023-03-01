@@ -1,7 +1,7 @@
 
 # Computer Systems Co.
 
-This is a small compant that makes the users be able to buy some Pc Componenets that will help them in their pc-build
+This is a small company that makes the users be able to buy some Pc Componenets that will help them in their pc-build
 
 
 ## Documentation
