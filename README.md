@@ -6,7 +6,7 @@ This is a small company that makes the users be able to buy some Pc Componenets 
 
 ## Documentation
 
-[Visit Our company link :)](https://docs.google.com/document/d/1gkyW1AA5O7LCSH48QGuFDBhi0uWSQy4K/edit)
+[Documentation]([https://docs.google.com/document/d/1gkyW1AA5O7LCSH48QGuFDBhi0uWSQy4K/edit](https://drive.google.com/file/d/1GvopfSSP55JSOHk7IQf6RaXHpg47nWOA/view?usp=sharing))
 
 
 ## Features
