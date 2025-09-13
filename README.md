@@ -59,5 +59,6 @@ Signing up & Signing In
 - Windows form
 
 ## Contributors
+- Salah Elshafey
 - Amr Elmeligi
 - Ahmed Amr
